@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 from flask import jsonify
-
+ 
 @app.route('/api/companies/<int:company_id>/alerts/low-stock', methods=['GET'])
 def low_stock_alerts(company_id):
     """
