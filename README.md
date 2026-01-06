@@ -13,8 +13,12 @@ The work is divided into three parts:
 ## Project Structure
 
 ├── Case_Study.pdf # Original problem statement
+
 ├── README.md # Project documentation
+
 ├── app.py # Part 3: Low-stock alerts API
+
 ├── product.py # Part 1: Debugged product creation API
+
 ├── schema.sql # Part 2: Database schema (SQL DDL)
 
