@@ -4,7 +4,7 @@ CREATE TABLE company (
     name VARCHAR(255) NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-
+ 
 
 -- Represents physical warehouses owned by a company
 CREATE TABLE warehouse (
